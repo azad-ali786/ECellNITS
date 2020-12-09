@@ -1,0 +1,1 @@
+## This repository is for official website of ECell NIT Silchar.
