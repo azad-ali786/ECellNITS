@@ -1,0 +1,30 @@
+footer{
+    padding: 2% 0;
+    display:flex;
+    justify-content: space-around;
+    text-align: left;
+    
+}
+footer > div h3 {
+    text-align: left !important;
+}
+
+.section2 ul,.section3 ul{
+    list-style: none;
+}
+
+.section2 a,.section3 a{
+    text-decoration: none;
+}
+
+.section2 li ,.section3 li{
+    padding: 10px 0px ;
+}
+
+.section1 h1 ,h3 {
+        padding:20px 0;
+}
+
+.section3 ul{
+    
+}
